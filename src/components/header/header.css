@@ -1,0 +1,61 @@
+.header{
+    background-image: linear-gradient(rgba(0,0,0,.537),transparent),url(../../images/man.jpg);
+    height: 90%;
+    width: 100%;
+    background-position: 100% 40%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding-top: 0;
+}
+
+.header_text{
+    padding-top: 10rem;
+    padding-bottom: 10rem;
+    padding-left: 5rem;
+}
+
+.heading{
+    font-weight: 900;
+    font-family: Arial,Helvetica,sans-serif;
+    font-size: 250%;
+}
+
+.paragraph{
+    width: 100%;
+    font-size: medium;
+    width: 30vw;
+    
+}
+
+.btn_color{
+    background-color: #05be53;
+}
+
+@media screen and (max-width: 500px){
+.header{
+    background-position: 85% 45%;
+    background-size: cover;
+    padding: 0 4em 0 2em;
+}}
+
+@media screen and (max-width: 550px){
+.header{
+    background-position: 75% 50%;
+    padding-left: 4em;
+}}
+@media screen and (max-width: 700px){
+.header{
+    background-position: 75% 60%;
+    padding-left: 6em;
+}}
+@media screen and (max-width: 990px){
+.header{
+    background-position: 100% 75%;
+}
+.paragraph{
+    width: 65vw;
+}
+.header_text{
+    padding-left: 0px;
+}
+}

@@ -1,0 +1,12 @@
+.booking{
+    margin: 11vh 8% 20vh;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: -50px;
+    border-radius: 10px;
+}
+
+.btn-red{
+    background-color: rgb(201, 0, 0);
+    color: white;
+}
