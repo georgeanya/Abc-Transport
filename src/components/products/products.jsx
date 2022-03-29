@@ -8,11 +8,11 @@ import cargo from '../../images/cargo-log.png'
 
 const Products = () => {
   return (
-    <div className='d-flex flex-xl-row flex-sm-column justify-content-center py-5 my-5'>
-      <img alt='sprinter' src={sprinter}/>
-      <img alt='transit' src={transit}/>
-      <img alt='westAfrica' src={westAfrica}/>
-      <img alt='cargo' src={cargo}/>
+    <div className='d-flex flex-xl-row flex-sm-column justify-content-center py-5 my-5 product'>
+      <img alt='sprinter' src={sprinter} className='product_image'/>
+      <img alt='transit' src={transit} className='product_image'/>
+      <img alt='westAfrica' src={westAfrica} className='product_image'/>
+      <img alt='cargo' src={cargo} className='product_image'/>
     </div>
   )
 }
