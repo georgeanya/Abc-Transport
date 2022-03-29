@@ -7,7 +7,7 @@ import Products from "./components/products/products";
 import Header from "./components/header/header";
 import Booking from "./components/booking/booking";
 import QuickBook from "./components/quick book/quickBook";
-import Download from "./components/download/download";
+// import Download from "./components/download/download";
 import Explore2 from "./components/explore2/explore2";
 
 function App() {
