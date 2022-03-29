@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/Abc-Transport/static/css/main.b7e20760.css",
-    "main.js": "/Abc-Transport/static/js/main.0fa0097a.js",
-    "static/js/787.2f02acde.chunk.js": "/Abc-Transport/static/js/787.2f02acde.chunk.js",
-    "static/media/man.jpg": "/Abc-Transport/static/media/man.b9d07e6e9df790382b2d.jpg",
-    "static/media/abc-app.png": "/Abc-Transport/static/media/abc-app.e3387691c5b00f3f8d48.png",
-    "static/media/Calabar.jpg": "/Abc-Transport/static/media/Calabar.e1c4ac577ee00ba14969.jpg",
-    "static/media/lady.jpg": "/Abc-Transport/static/media/lady.e24105dc036500760fb1.jpg",
-    "static/media/owerri.jpg": "/Abc-Transport/static/media/owerri.69df74f5d56c278c3fe1.jpg",
-    "static/media/abuja.jpg": "/Abc-Transport/static/media/abuja.086653011d885df79028.jpg",
-    "static/media/ENUGU.jpg": "/Abc-Transport/static/media/ENUGU.c64d37b2b2b5685065ba.jpg",
-    "static/media/pH.jpg": "/Abc-Transport/static/media/pH.37d45273bb907b3ddafa.jpg",
-    "static/media/lagos.jpg": "/Abc-Transport/static/media/lagos.e0d4da8b772358b50cec.jpg",
-    "static/media/abc.png": "/Abc-Transport/static/media/abc.769f04d84388981a9f2f.png",
-    "static/media/sprinter-logo.png": "/Abc-Transport/static/media/sprinter-logo.ae474494b0e11769f4e3.png",
-    "static/media/cargo-log.png": "/Abc-Transport/static/media/cargo-log.0d51b69cd8443b8370cb.png",
-    "index.html": "/Abc-Transport/index.html",
-    "main.b7e20760.css.map": "/Abc-Transport/static/css/main.b7e20760.css.map",
-    "main.0fa0097a.js.map": "/Abc-Transport/static/js/main.0fa0097a.js.map",
-    "787.2f02acde.chunk.js.map": "/Abc-Transport/static/js/787.2f02acde.chunk.js.map"
+    "main.css": "/static/css/main.94e217ab.css",
+    "main.js": "/static/js/main.1a9095ad.js",
+    "static/js/787.2f02acde.chunk.js": "/static/js/787.2f02acde.chunk.js",
+    "static/media/man.jpg": "/static/media/man.b9d07e6e9df790382b2d.jpg",
+    "static/media/abc-app.png": "/static/media/abc-app.e3387691c5b00f3f8d48.png",
+    "static/media/Calabar.jpg": "/static/media/Calabar.e1c4ac577ee00ba14969.jpg",
+    "static/media/lady.jpg": "/static/media/lady.e24105dc036500760fb1.jpg",
+    "static/media/owerri.jpg": "/static/media/owerri.69df74f5d56c278c3fe1.jpg",
+    "static/media/abuja.jpg": "/static/media/abuja.086653011d885df79028.jpg",
+    "static/media/ENUGU.jpg": "/static/media/ENUGU.c64d37b2b2b5685065ba.jpg",
+    "static/media/pH.jpg": "/static/media/pH.37d45273bb907b3ddafa.jpg",
+    "static/media/lagos.jpg": "/static/media/lagos.e0d4da8b772358b50cec.jpg",
+    "static/media/abc.png": "/static/media/abc.769f04d84388981a9f2f.png",
+    "static/media/sprinter-logo.png": "/static/media/sprinter-logo.ae474494b0e11769f4e3.png",
+    "static/media/cargo-log.png": "/static/media/cargo-log.0d51b69cd8443b8370cb.png",
+    "index.html": "/index.html",
+    "main.94e217ab.css.map": "/static/css/main.94e217ab.css.map",
+    "main.1a9095ad.js.map": "/static/js/main.1a9095ad.js.map",
+    "787.2f02acde.chunk.js.map": "/static/js/787.2f02acde.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b7e20760.css",
-    "static/js/main.0fa0097a.js"
+    "static/css/main.94e217ab.css",
+    "static/js/main.1a9095ad.js"
   ]
 }
