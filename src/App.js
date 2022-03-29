@@ -18,7 +18,7 @@ function App() {
       <QuickBook/>
       <Explore/>
       <Explore2/>
-      <Download/>
+      {/* <Download/> */}
       <Products/>
       <Footer/>
     </div>
