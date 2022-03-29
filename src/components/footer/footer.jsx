@@ -41,10 +41,10 @@ const Footer = () => {
                     </div><hr className="w-100 clearfix d-md-none"/>
                     <div className="col-md-12 col-lg-3 col-xl-3 mx-auto mt-3">
                         <h6 className="mb-4 text-white">Contact</h6>
-                        <p className="text-white"><i className="fas fa-home"></i> New York, NY 10012, US</p>
+                        <p className="text-white"><i className="fas fa-home"></i>George Anya</p>
                         <p className="text-white"><i className="fas fa-envelope"></i> georgeanya4real@gmail.com</p>
-                        <p><a className="text-white text-decoration-none" href='tel:+234-708-089-6778'>+234 708 089 6778</a></p>
-                        <p><a className="text-white text-decoration-none" href='tel:+234-708-089-6778'>+234 708 089 6778</a></p>
+                        <p><a className="text-white text-decoration-none" href='tel:+234-907-519-7519'>+234 907 519 7519</a></p>
+                        <p><a className="text-white text-decoration-none" href='tel:+234-806--910-9229'>+234 806 910 9229</a></p>
                     </div>
                 </div><hr className="bg-white"/>
                 <div className="row d-flex align-items-center">
